@@ -1,0 +1,552 @@
+[2022-05-17 14:27:18,460: INFO/MainProcess] Task computation_heavy_task[2ce83902-fa8b-41cb-b644-365537aa2708] received
+[2022-05-17 14:27:18,535: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:27:18,536: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:27:18,536: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:27:21,564: INFO/MainProcess] User follower created 9
+[2022-05-17 14:27:21,577: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:27:21,579: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:27:21,584: INFO/MainProcess] Task computation_heavy_task[2ce83902-fa8b-41cb-b644-365537aa2708] succeeded in 3.125s: None
+[2022-05-17 14:28:18,609: INFO/MainProcess] Task computation_heavy_task[091be9cb-f4ae-4e84-9369-48c0cdd73977] received
+[2022-05-17 14:28:18,664: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:28:18,664: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:28:18,664: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:28:21,506: INFO/MainProcess] User follower created 10
+[2022-05-17 14:28:22,342: INFO/MainProcess] Sent message to 1285497083747807233
+[2022-05-17 14:28:22,393: INFO/MainProcess] User follower created
+[2022-05-17 14:28:22,394: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:28:22,394: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:28:22,398: INFO/MainProcess] Task computation_heavy_task[091be9cb-f4ae-4e84-9369-48c0cdd73977] succeeded in 3.780999999999949s: None
+[2022-05-17 14:29:18,668: INFO/MainProcess] Task computation_heavy_task[e223dd0c-bc8a-4db5-a1a9-10f1d9cf8ee5] received
+[2022-05-17 14:29:18,731: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:29:18,731: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:29:18,731: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:29:21,920: INFO/MainProcess] User follower created 10
+[2022-05-17 14:29:21,926: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:29:21,929: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:29:21,934: INFO/MainProcess] Task computation_heavy_task[e223dd0c-bc8a-4db5-a1a9-10f1d9cf8ee5] succeeded in 3.2649999999998727s: None
+[2022-05-17 14:30:18,817: INFO/MainProcess] Task computation_heavy_task[311bc7ee-31d0-492d-bf6b-cd6101a716a8] received
+[2022-05-17 14:30:18,874: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:30:18,875: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:30:18,875: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:30:22,659: INFO/MainProcess] User follower created 10
+[2022-05-17 14:30:22,660: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:30:30,709: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:30:30,721: INFO/MainProcess] Task computation_heavy_task[311bc7ee-31d0-492d-bf6b-cd6101a716a8] succeeded in 11.905999999999949s: None
+[2022-05-17 14:31:18,884: INFO/MainProcess] Task computation_heavy_task[13b80465-51f8-4c9f-b455-8b7be4c64994] received
+[2022-05-17 14:31:18,932: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:31:18,932: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:31:18,935: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:31:23,500: INFO/MainProcess] User follower created 10
+[2022-05-17 14:31:23,500: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:31:23,509: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:31:23,517: INFO/MainProcess] Task computation_heavy_task[13b80465-51f8-4c9f-b455-8b7be4c64994] succeeded in 4.641000000000076s: None
+[2022-05-17 14:32:18,973: INFO/MainProcess] Task computation_heavy_task[0ff96733-0199-4159-90e2-6ad93447df7c] received
+[2022-05-17 14:32:19,042: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:32:19,043: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:32:19,043: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:32:22,056: INFO/MainProcess] User follower created 10
+[2022-05-17 14:32:22,066: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:32:22,067: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:32:22,076: INFO/MainProcess] Task computation_heavy_task[0ff96733-0199-4159-90e2-6ad93447df7c] succeeded in 3.094000000000051s: None
+[2022-05-17 14:33:10,895: INFO/MainProcess] Task computation_heavy_task[087a605b-2eff-402b-8bb8-ded18b027524] received
+[2022-05-17 14:33:10,971: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:33:10,971: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:33:10,971: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:33:15,469: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:33:15,798: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:33:15,798: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:33:15,805: INFO/MainProcess] Task computation_heavy_task[087a605b-2eff-402b-8bb8-ded18b027524] succeeded in 4.905999999999949s: None
+[2022-05-17 14:33:19,038: INFO/MainProcess] Task computation_heavy_task[68444563-d617-4b0e-9194-fda266655d75] received
+[2022-05-17 14:33:19,090: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:33:19,091: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:33:19,091: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:33:21,531: INFO/MainProcess] User follower created 10
+[2022-05-17 14:33:21,532: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:33:21,532: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:33:21,540: INFO/MainProcess] Task computation_heavy_task[68444563-d617-4b0e-9194-fda266655d75] succeeded in 2.5s: None
+[2022-05-17 14:34:10,974: INFO/MainProcess] Task computation_heavy_task[0535373b-bc2f-4232-be98-7e210efde495] received
+[2022-05-17 14:34:11,024: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:34:11,025: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:34:11,025: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:34:14,041: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:34:14,283: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:34:14,283: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:34:14,294: INFO/MainProcess] Task computation_heavy_task[0535373b-bc2f-4232-be98-7e210efde495] succeeded in 3.313000000000102s: None
+[2022-05-17 14:34:19,129: INFO/MainProcess] Task computation_heavy_task[d7871a14-5ed6-409f-b087-22f7a6f6606c] received
+[2022-05-17 14:34:19,177: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:34:19,179: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:34:19,179: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:34:22,389: INFO/MainProcess] User follower created 10
+[2022-05-17 14:34:22,389: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:34:22,389: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:34:22,405: INFO/MainProcess] Task computation_heavy_task[d7871a14-5ed6-409f-b087-22f7a6f6606c] succeeded in 3.2660000000000764s: None
+[2022-05-17 14:35:11,119: INFO/MainProcess] Task computation_heavy_task[149111d2-6fcb-4552-9497-c6da5c4f6aaa] received
+[2022-05-17 14:35:11,216: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:35:11,216: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:35:11,216: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:35:14,919: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:35:15,940: INFO/MainProcess] Sent message to 1222872617025200130
+[2022-05-17 14:35:15,943: INFO/MainProcess] User follower created
+[2022-05-17 14:35:16,143: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:35:16,143: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:35:16,153: INFO/MainProcess] Task computation_heavy_task[149111d2-6fcb-4552-9497-c6da5c4f6aaa] succeeded in 5.030999999999949s: None
+[2022-05-17 14:35:19,208: INFO/MainProcess] Task computation_heavy_task[687419e7-583e-4f14-8a24-7ac13e4aa045] received
+[2022-05-17 14:35:19,260: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:35:19,262: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:35:19,263: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:35:21,837: INFO/MainProcess] User follower created 10
+[2022-05-17 14:35:21,837: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:35:21,837: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:35:21,857: INFO/MainProcess] Task computation_heavy_task[687419e7-583e-4f14-8a24-7ac13e4aa045] succeeded in 2.6410000000000764s: None
+[2022-05-17 14:36:11,188: INFO/MainProcess] Task computation_heavy_task[d2ca32cb-2ca3-44e6-9dee-8b5fc8d036d1] received
+[2022-05-17 14:36:11,238: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:36:11,238: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:36:11,240: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:36:14,226: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:36:14,524: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:36:14,524: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:36:14,534: INFO/MainProcess] Task computation_heavy_task[d2ca32cb-2ca3-44e6-9dee-8b5fc8d036d1] succeeded in 3.344000000000051s: None
+[2022-05-17 14:36:19,274: INFO/MainProcess] Task computation_heavy_task[0427d5f3-d10b-43b9-9db1-10d2b160b2fa] received
+[2022-05-17 14:36:19,325: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:36:19,327: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:36:19,327: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:36:21,894: INFO/MainProcess] User follower created 10
+[2022-05-17 14:36:21,899: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:36:21,899: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:36:21,904: INFO/MainProcess] Task computation_heavy_task[0427d5f3-d10b-43b9-9db1-10d2b160b2fa] succeeded in 2.625s: None
+[2022-05-17 14:37:11,273: INFO/MainProcess] Task computation_heavy_task[30f35d59-b09d-4426-819c-96a63c9fba4b] received
+[2022-05-17 14:37:11,321: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:37:11,323: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:37:11,323: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:37:14,235: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:37:14,482: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:37:14,482: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:37:14,499: INFO/MainProcess] Task computation_heavy_task[30f35d59-b09d-4426-819c-96a63c9fba4b] succeeded in 3.219000000000051s: None
+[2022-05-17 14:37:19,345: INFO/MainProcess] Task computation_heavy_task[e71c7acf-7752-4b0a-b50e-19a29b6435bd] received
+[2022-05-17 14:37:19,401: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:37:19,403: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:37:19,403: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:37:21,722: INFO/MainProcess] User follower created 10
+[2022-05-17 14:37:21,724: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:37:21,724: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:37:21,727: INFO/MainProcess] Task computation_heavy_task[e71c7acf-7752-4b0a-b50e-19a29b6435bd] succeeded in 2.375s: None
+[2022-05-17 14:38:11,365: INFO/MainProcess] Task computation_heavy_task[f19a61aa-d18f-44ea-aad3-172db8f8c98f] received
+[2022-05-17 14:38:11,414: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:38:11,590: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:38:11,592: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:38:16,420: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:38:16,700: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:38:16,700: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:38:16,710: INFO/MainProcess] Task computation_heavy_task[f19a61aa-d18f-44ea-aad3-172db8f8c98f] succeeded in 5.342999999999847s: None
+[2022-05-17 14:38:19,399: INFO/MainProcess] Task computation_heavy_task[cdc3af0e-7198-45c7-8d76-14ea7c834b5a] received
+[2022-05-17 14:38:19,447: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:38:19,449: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:38:19,449: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:38:21,999: INFO/MainProcess] User follower created 10
+[2022-05-17 14:38:22,003: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:38:22,004: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:38:22,008: INFO/MainProcess] Task computation_heavy_task[cdc3af0e-7198-45c7-8d76-14ea7c834b5a] succeeded in 2.6089999999999236s: None
+[2022-05-17 14:39:11,452: INFO/MainProcess] Task computation_heavy_task[e50cc113-b388-41f1-88cc-5d3989e464a9] received
+[2022-05-17 14:39:11,503: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:39:11,503: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:39:11,505: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:39:15,131: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:39:15,428: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:39:15,428: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:39:15,444: INFO/MainProcess] Task computation_heavy_task[e50cc113-b388-41f1-88cc-5d3989e464a9] succeeded in 4.0s: None
+[2022-05-17 14:39:19,456: INFO/MainProcess] Task computation_heavy_task[45b97004-03dc-48f6-bad3-83d5c63b662f] received
+[2022-05-17 14:39:19,509: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:39:19,509: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:39:19,511: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:39:21,895: INFO/MainProcess] User follower created 10
+[2022-05-17 14:39:21,895: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:39:21,904: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:39:21,910: INFO/MainProcess] Task computation_heavy_task[45b97004-03dc-48f6-bad3-83d5c63b662f] succeeded in 2.4540000000001783s: None
+[2022-05-17 14:40:11,504: INFO/MainProcess] Task computation_heavy_task[79a30dd8-6710-4062-8692-c7c22560e883] received
+[2022-05-17 14:40:11,559: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:40:11,561: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:40:11,561: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:40:16,989: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:40:17,239: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:40:17,239: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:40:17,244: INFO/MainProcess] Task computation_heavy_task[79a30dd8-6710-4062-8692-c7c22560e883] succeeded in 5.735000000000127s: None
+[2022-05-17 14:40:19,525: INFO/MainProcess] Task computation_heavy_task[ede1f9b2-7b6a-482d-bb1d-0f0eb0f5981a] received
+[2022-05-17 14:40:19,574: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:40:19,574: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:40:19,576: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:40:23,765: INFO/MainProcess] User follower created 10
+[2022-05-17 14:40:23,765: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:40:23,765: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:40:23,782: INFO/MainProcess] Task computation_heavy_task[ede1f9b2-7b6a-482d-bb1d-0f0eb0f5981a] succeeded in 4.266000000000076s: None
+[2022-05-17 14:41:11,583: INFO/MainProcess] Task computation_heavy_task[17c5120c-5a42-4d64-96c6-2f807a7725a8] received
+[2022-05-17 14:41:11,654: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:41:11,654: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:41:11,655: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:41:17,225: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:41:17,723: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:41:17,723: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:41:17,735: INFO/MainProcess] Task computation_heavy_task[17c5120c-5a42-4d64-96c6-2f807a7725a8] succeeded in 6.157000000000153s: None
+[2022-05-17 14:41:19,584: INFO/MainProcess] Task computation_heavy_task[b70958da-9eb8-46d6-8b70-606588edf351] received
+[2022-05-17 14:41:19,642: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:41:19,643: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:41:19,643: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:41:23,952: INFO/MainProcess] User follower created 10
+[2022-05-17 14:41:23,952: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:41:23,952: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:41:23,962: INFO/MainProcess] Task computation_heavy_task[b70958da-9eb8-46d6-8b70-606588edf351] succeeded in 4.375s: None
+[2022-05-17 14:42:11,688: INFO/MainProcess] Task computation_heavy_task[4c3e3036-3ab5-4ee1-b7e0-ba4f275cb770] received
+[2022-05-17 14:42:11,803: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:42:11,803: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:42:11,803: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:42:19,313: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:42:19,657: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:42:19,657: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:42:19,660: INFO/MainProcess] Task computation_heavy_task[4c3e3036-3ab5-4ee1-b7e0-ba4f275cb770] succeeded in 7.969000000000051s: None
+[2022-05-17 14:42:19,666: INFO/MainProcess] Task computation_heavy_task[75a2d036-3d37-4be3-9ba6-be7b2b08d90b] received
+[2022-05-17 14:42:19,713: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:42:19,713: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:42:19,713: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:42:35,490: INFO/MainProcess] User follower created 10
+[2022-05-17 14:42:35,492: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:42:35,492: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:42:35,495: INFO/MainProcess] Task computation_heavy_task[75a2d036-3d37-4be3-9ba6-be7b2b08d90b] succeeded in 15.827999999999975s: None
+[2022-05-17 14:43:11,791: INFO/MainProcess] Task computation_heavy_task[650c39c7-5802-4f3c-bce1-579c80060fb5] received
+[2022-05-17 14:43:11,909: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:43:11,910: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:43:11,910: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:43:23,127: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:43:23,565: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:43:23,566: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:43:23,571: INFO/MainProcess] Task computation_heavy_task[650c39c7-5802-4f3c-bce1-579c80060fb5] succeeded in 11.780999999999949s: None
+[2022-05-17 14:43:23,577: INFO/MainProcess] Task computation_heavy_task[c7503f59-eb96-4955-93de-6b06ce3a06c0] received
+[2022-05-17 14:43:23,643: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:43:23,644: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:43:23,645: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:43:39,314: INFO/MainProcess] User follower created 10
+[2022-05-17 14:43:39,319: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:43:39,320: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:43:39,328: INFO/MainProcess] Task computation_heavy_task[c7503f59-eb96-4955-93de-6b06ce3a06c0] succeeded in 15.75s: None
+[2022-05-17 14:44:11,874: INFO/MainProcess] Task computation_heavy_task[372ad594-1f7c-4c03-842c-431cf3cffe6e] received
+[2022-05-17 14:44:11,955: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:44:11,955: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:44:11,957: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:44:16,696: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:44:17,086: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:44:17,087: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:44:17,091: INFO/MainProcess] Task computation_heavy_task[372ad594-1f7c-4c03-842c-431cf3cffe6e] succeeded in 5.217999999999847s: None
+[2022-05-17 14:44:19,882: INFO/MainProcess] Task computation_heavy_task[579e1460-e650-4f98-ae88-452b054ec785] received
+[2022-05-17 14:44:19,969: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:44:19,970: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:44:19,971: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:44:24,468: INFO/MainProcess] User follower created 10
+[2022-05-17 14:44:24,472: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:44:24,472: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:44:24,475: INFO/MainProcess] Task computation_heavy_task[579e1460-e650-4f98-ae88-452b054ec785] succeeded in 4.594000000000051s: None
+[2022-05-17 14:45:11,931: INFO/MainProcess] Task computation_heavy_task[2f093821-341f-407b-bc35-5e160041ac9d] received
+[2022-05-17 14:45:11,987: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:45:11,987: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:45:11,987: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:45:16,331: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:45:16,604: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:45:16,604: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:45:16,607: INFO/MainProcess] Task computation_heavy_task[2f093821-341f-407b-bc35-5e160041ac9d] succeeded in 4.6720000000000255s: None
+[2022-05-17 14:45:19,957: INFO/MainProcess] Task computation_heavy_task[809a5641-5559-4792-ad58-734e592fe379] received
+[2022-05-17 14:45:20,011: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:45:20,012: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:45:20,012: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:45:22,576: INFO/MainProcess] User follower created 10
+[2022-05-17 14:45:22,584: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:45:22,584: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:45:22,591: INFO/MainProcess] Task computation_heavy_task[809a5641-5559-4792-ad58-734e592fe379] succeeded in 2.625s: None
+[2022-05-17 14:46:12,099: INFO/MainProcess] Task computation_heavy_task[f2876b10-a365-4313-b3aa-7780d4029708] received
+[2022-05-17 14:46:12,199: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:46:12,199: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:46:12,201: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:46:15,686: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:46:16,118: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:46:16,119: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:46:16,121: INFO/MainProcess] Task computation_heavy_task[f2876b10-a365-4313-b3aa-7780d4029708] succeeded in 4.016000000000531s: None
+[2022-05-17 14:46:20,021: INFO/MainProcess] Task computation_heavy_task[65448d82-3ec7-4189-8bb4-ccdf8aad9df0] received
+[2022-05-17 14:46:20,077: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:46:20,077: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:46:20,078: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:46:23,712: INFO/MainProcess] User follower created 10
+[2022-05-17 14:46:23,713: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:46:23,719: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:46:23,726: INFO/MainProcess] Task computation_heavy_task[65448d82-3ec7-4189-8bb4-ccdf8aad9df0] succeeded in 3.70299999999952s: None
+[2022-05-17 14:47:12,153: INFO/MainProcess] Task computation_heavy_task[a654543f-0fb8-4a8b-a431-ca89223ce6f8] received
+[2022-05-17 14:47:12,203: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:47:12,204: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:47:12,204: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:47:18,601: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:47:18,886: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:47:18,886: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:47:18,894: INFO/MainProcess] Task computation_heavy_task[a654543f-0fb8-4a8b-a431-ca89223ce6f8] succeeded in 6.75s: None
+[2022-05-17 14:47:20,080: INFO/MainProcess] Task computation_heavy_task[05ec62f9-d82e-4f8b-b3da-43a07fc393e4] received
+[2022-05-17 14:47:20,135: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:47:20,136: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:47:20,136: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:47:26,510: INFO/MainProcess] User follower created 10
+[2022-05-17 14:47:26,517: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:47:26,518: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:47:26,525: INFO/MainProcess] Task computation_heavy_task[05ec62f9-d82e-4f8b-b3da-43a07fc393e4] succeeded in 6.438000000000102s: None
+[2022-05-17 14:48:12,196: INFO/MainProcess] Task computation_heavy_task[d3753c74-8a9b-40e7-9148-75c2f7ecb36e] received
+[2022-05-17 14:48:12,246: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:48:12,247: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:48:12,247: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:48:19,884: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:48:20,200: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:48:20,201: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:48:20,203: INFO/MainProcess] Task computation_heavy_task[d3753c74-8a9b-40e7-9148-75c2f7ecb36e] succeeded in 8.0s: None
+[2022-05-17 14:48:20,208: INFO/MainProcess] Task computation_heavy_task[4be53291-2c46-4e72-8828-e67307781c9d] received
+[2022-05-17 14:48:20,255: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:48:20,255: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:48:20,256: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:48:26,287: INFO/MainProcess] User follower created 10
+[2022-05-17 14:48:26,295: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:48:26,295: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:48:26,302: INFO/MainProcess] Task computation_heavy_task[4be53291-2c46-4e72-8828-e67307781c9d] succeeded in 6.094000000000051s: None
+[2022-05-17 14:49:12,340: INFO/MainProcess] Task computation_heavy_task[e0b2759c-42db-429f-8339-0b92f690093c] received
+[2022-05-17 14:49:12,425: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:49:12,425: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:49:12,426: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:49:18,984: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:49:19,313: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:49:19,313: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:49:19,316: INFO/MainProcess] Task computation_heavy_task[e0b2759c-42db-429f-8339-0b92f690093c] succeeded in 6.984999999999673s: None
+[2022-05-17 14:49:20,237: INFO/MainProcess] Task computation_heavy_task[2bd2553b-4e46-47e4-bbe0-17a688b76f5e] received
+[2022-05-17 14:49:20,289: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:49:20,290: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:49:20,290: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:49:23,629: INFO/MainProcess] User follower created 10
+[2022-05-17 14:49:23,633: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:49:23,700: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:49:23,707: INFO/MainProcess] Task computation_heavy_task[2bd2553b-4e46-47e4-bbe0-17a688b76f5e] succeeded in 3.467999999999847s: None
+[2022-05-17 14:50:14,305: INFO/MainProcess] Task computation_heavy_task[74c14a34-8119-40e9-8590-5aa9b14d4ece] received
+[2022-05-17 14:50:14,358: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:50:14,360: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:50:14,360: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:50:18,374: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:50:18,627: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:50:20,077: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:50:20,085: INFO/MainProcess] Task computation_heavy_task[74c14a34-8119-40e9-8590-5aa9b14d4ece] succeeded in 5.780999999999949s: None
+[2022-05-17 14:50:20,357: INFO/MainProcess] Task computation_heavy_task[31f91eee-1c4a-439b-ab82-d311c0aa68bf] received
+[2022-05-17 14:50:20,449: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:50:20,453: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:50:20,453: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:50:28,221: INFO/MainProcess] User follower created 10
+[2022-05-17 14:50:28,225: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:50:28,226: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:50:28,231: INFO/MainProcess] Task computation_heavy_task[31f91eee-1c4a-439b-ab82-d311c0aa68bf] succeeded in 7.875s: None
+[2022-05-17 14:51:14,363: INFO/MainProcess] Task computation_heavy_task[8776ce1f-72ba-43b9-b421-7ff4f105e8a5] received
+[2022-05-17 14:51:14,570: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:51:14,572: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:51:14,573: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:51:21,809: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:51:22,362: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:51:22,362: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:51:22,381: INFO/MainProcess] Task computation_heavy_task[8776ce1f-72ba-43b9-b421-7ff4f105e8a5] succeeded in 8.014999999999418s: None
+[2022-05-17 14:51:22,388: INFO/MainProcess] Task computation_heavy_task[a95ff540-4e9c-461b-ba84-4dea26072977] received
+[2022-05-17 14:51:22,595: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:51:22,595: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:51:22,595: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:51:27,126: INFO/MainProcess] User follower created 10
+[2022-05-17 14:51:27,129: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:51:27,130: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:51:27,135: INFO/MainProcess] Task computation_heavy_task[a95ff540-4e9c-461b-ba84-4dea26072977] succeeded in 4.75s: None
+[2022-05-17 14:52:10,900: INFO/MainProcess] Task check_20_min[062bb247-a110-4c5b-a35d-9259a48c64ee] received
+[2022-05-17 14:52:10,985: INFO/MainProcess] Task check_20_min[062bb247-a110-4c5b-a35d-9259a48c64ee] succeeded in 0.09400000000005093s: None
+[2022-05-17 14:52:10,993: INFO/MainProcess] Task check_20_min[e5f9be9d-777c-433e-bc00-58d0ffeef4e1] received
+[2022-05-17 14:52:11,055: INFO/MainProcess] Task check_20_min[e5f9be9d-777c-433e-bc00-58d0ffeef4e1] succeeded in 0.06199999999989814s: None
+[2022-05-17 14:52:14,446: INFO/MainProcess] Task computation_heavy_task[aef6c5d2-151b-4475-941f-cdcd3ecd89f4] received
+[2022-05-17 14:52:14,530: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:52:14,531: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:52:14,532: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:52:21,810: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:52:22,378: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:52:22,379: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:52:22,383: INFO/MainProcess] Task computation_heavy_task[aef6c5d2-151b-4475-941f-cdcd3ecd89f4] succeeded in 7.936999999999898s: None
+[2022-05-17 14:52:22,389: INFO/MainProcess] Task computation_heavy_task[f3d2053b-6766-4b31-b3ce-25bb60bbae39] received
+[2022-05-17 14:52:22,462: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:52:22,464: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:52:22,464: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:52:26,085: INFO/MainProcess] User follower created 10
+[2022-05-17 14:52:26,093: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:52:26,094: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:52:26,101: INFO/MainProcess] Task computation_heavy_task[f3d2053b-6766-4b31-b3ce-25bb60bbae39] succeeded in 3.719000000000051s: None
+[2022-05-17 14:53:14,550: INFO/MainProcess] Task computation_heavy_task[02dd9e21-6e74-4c94-ac86-36719176a345] received
+[2022-05-17 14:53:14,648: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:53:14,649: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:53:14,649: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:53:28,068: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:53:28,966: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:53:28,967: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:53:28,973: INFO/MainProcess] Task computation_heavy_task[02dd9e21-6e74-4c94-ac86-36719176a345] succeeded in 14.42199999999957s: None
+[2022-05-17 14:53:28,988: INFO/MainProcess] Task computation_heavy_task[f92ae4d2-7c03-4fd1-8b97-4424ffa8a71a] received
+[2022-05-17 14:53:29,108: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:53:29,108: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:53:29,110: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:53:33,500: INFO/MainProcess] User follower created 10
+[2022-05-17 14:53:33,508: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:53:33,509: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:53:33,513: INFO/MainProcess] Task computation_heavy_task[f92ae4d2-7c03-4fd1-8b97-4424ffa8a71a] succeeded in 4.514999999999418s: None
+[2022-05-17 14:54:14,616: INFO/MainProcess] Task computation_heavy_task[7cca0da5-6d46-46c4-99b5-3fd862a7694e] received
+[2022-05-17 14:54:14,697: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:54:14,699: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:54:14,699: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:54:27,358: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:54:27,948: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:54:27,949: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:54:27,952: INFO/MainProcess] Task computation_heavy_task[7cca0da5-6d46-46c4-99b5-3fd862a7694e] succeeded in 13.32799999999952s: None
+[2022-05-17 14:54:27,959: INFO/MainProcess] Task computation_heavy_task[21156cbb-fdab-4d3e-9595-d3f922bda65d] received
+[2022-05-17 14:54:28,024: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:54:28,025: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:54:28,025: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:54:32,959: INFO/MainProcess] User follower created 10
+[2022-05-17 14:54:32,963: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:54:32,964: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:54:32,969: INFO/MainProcess] Task computation_heavy_task[21156cbb-fdab-4d3e-9595-d3f922bda65d] succeeded in 5.0s: None
+[2022-05-17 14:55:14,680: INFO/MainProcess] Task computation_heavy_task[18e2efd9-524d-49b6-b0b6-c25960e834aa] received
+[2022-05-17 14:55:14,760: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:55:14,761: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:55:14,761: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:55:18,466: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:55:19,018: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:55:19,019: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:55:19,024: INFO/MainProcess] Task computation_heavy_task[18e2efd9-524d-49b6-b0b6-c25960e834aa] succeeded in 4.344000000000051s: None
+[2022-05-17 14:55:20,808: INFO/MainProcess] Task computation_heavy_task[c78dcb09-587b-4326-bbdc-8a9c3dabc5c2] received
+[2022-05-17 14:55:20,881: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:55:20,881: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:55:20,882: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:55:23,476: INFO/MainProcess] User follower created 10
+[2022-05-17 14:55:23,482: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:55:23,483: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:55:23,488: INFO/MainProcess] Task computation_heavy_task[c78dcb09-587b-4326-bbdc-8a9c3dabc5c2] succeeded in 2.688000000000102s: None
+[2022-05-17 14:56:14,760: INFO/MainProcess] Task computation_heavy_task[052087c1-646c-47de-afe6-89a87a16a7f7] received
+[2022-05-17 14:56:14,843: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:56:14,844: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:56:14,845: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:56:22,568: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:56:23,163: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:56:23,164: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:56:23,169: INFO/MainProcess] Task computation_heavy_task[052087c1-646c-47de-afe6-89a87a16a7f7] succeeded in 8.407000000000153s: None
+[2022-05-17 14:56:23,177: INFO/MainProcess] Task computation_heavy_task[b0f133b7-7d8e-4c7b-94ea-9801d1dca8a0] received
+[2022-05-17 14:56:25,536: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:56:25,537: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:56:25,537: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:56:27,871: INFO/MainProcess] User follower created 10
+[2022-05-17 14:56:27,876: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:56:27,877: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:56:27,881: INFO/MainProcess] Task computation_heavy_task[b0f133b7-7d8e-4c7b-94ea-9801d1dca8a0] succeeded in 4.70299999999952s: None
+[2022-05-17 14:57:14,873: INFO/MainProcess] Task computation_heavy_task[35899f58-c228-40c9-a52d-a344efe05972] received
+[2022-05-17 14:57:15,067: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:57:15,069: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:57:15,070: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:57:19,870: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:57:20,987: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:57:20,988: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:57:20,995: INFO/MainProcess] Task computation_heavy_task[35899f58-c228-40c9-a52d-a344efe05972] succeeded in 6.125s: None
+[2022-05-17 14:57:21,774: INFO/MainProcess] Task computation_heavy_task[bf156912-2748-45b0-8c4e-caa200f56e6a] received
+[2022-05-17 14:57:21,949: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:57:21,950: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:57:21,950: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:57:42,750: INFO/MainProcess] User follower created 10
+[2022-05-17 14:57:42,763: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:57:42,764: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:57:42,773: INFO/MainProcess] Task computation_heavy_task[bf156912-2748-45b0-8c4e-caa200f56e6a] succeeded in 21.0s: None
+[2022-05-17 14:58:15,073: INFO/MainProcess] Task computation_heavy_task[31c47791-8250-416c-90fe-ae44c917dacf] received
+[2022-05-17 14:58:15,294: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:58:15,296: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:58:15,298: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:58:18,292: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:58:19,049: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:58:19,049: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:58:19,054: INFO/MainProcess] Task computation_heavy_task[31c47791-8250-416c-90fe-ae44c917dacf] succeeded in 3.9840000000003783s: None
+[2022-05-17 14:58:21,980: INFO/MainProcess] Task computation_heavy_task[d175d8d3-1648-4d87-bce6-f6b82921ff5d] received
+[2022-05-17 14:58:22,106: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:58:22,106: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:58:22,107: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:58:25,660: INFO/MainProcess] User follower created 10
+[2022-05-17 14:58:25,671: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:58:25,672: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:58:25,680: INFO/MainProcess] Task computation_heavy_task[d175d8d3-1648-4d87-bce6-f6b82921ff5d] succeeded in 3.7030000000004293s: None
+[2022-05-17 14:59:15,232: INFO/MainProcess] Task computation_heavy_task[faa69272-5b22-4108-951e-6d5ceaf2b899] received
+[2022-05-17 14:59:15,862: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 14:59:15,868: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 14:59:15,873: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 14:59:20,142: INFO/MainProcess] User follower created 5000
+[2022-05-17 14:59:21,450: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 14:59:21,450: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 14:59:21,455: INFO/MainProcess] Task computation_heavy_task[faa69272-5b22-4108-951e-6d5ceaf2b899] succeeded in 6.217999999999847s: None
+[2022-05-17 14:59:22,216: INFO/MainProcess] Task computation_heavy_task[84168a97-de6b-4d22-8d87-21d2c2bf5a3a] received
+[2022-05-17 14:59:22,375: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 14:59:22,376: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 14:59:22,376: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 14:59:26,560: INFO/MainProcess] User follower created 10
+[2022-05-17 14:59:26,571: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 14:59:26,573: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 14:59:26,576: INFO/MainProcess] Task computation_heavy_task[84168a97-de6b-4d22-8d87-21d2c2bf5a3a] succeeded in 4.359999999999673s: None
+[2022-05-17 15:00:15,426: INFO/MainProcess] Task computation_heavy_task[f55569a5-0b2d-424a-a757-010b4e2777bb] received
+[2022-05-17 15:00:15,771: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 15:00:15,773: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 15:00:15,774: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 15:00:20,143: INFO/MainProcess] User follower created 5000
+[2022-05-17 15:00:20,973: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 15:00:20,974: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 15:00:20,982: INFO/MainProcess] Task computation_heavy_task[f55569a5-0b2d-424a-a757-010b4e2777bb] succeeded in 5.546999999999571s: None
+[2022-05-17 15:00:22,352: INFO/MainProcess] Task computation_heavy_task[bfbea19d-eaa1-47d5-844a-8bf75bbd854a] received
+[2022-05-17 15:00:22,515: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 15:00:22,515: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 15:00:22,517: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 15:00:25,439: INFO/MainProcess] User follower created 10
+[2022-05-17 15:00:25,447: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 15:00:25,450: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 15:00:25,458: INFO/MainProcess] Task computation_heavy_task[bfbea19d-eaa1-47d5-844a-8bf75bbd854a] succeeded in 3.1090000000003783s: None
+[2022-05-17 15:01:15,591: INFO/MainProcess] Task computation_heavy_task[d1cf3839-d51e-49dc-a580-64eb78fa369e] received
+[2022-05-17 15:01:15,739: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 15:01:15,739: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 15:01:15,739: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 15:01:20,163: INFO/MainProcess] User follower created 5000
+[2022-05-17 15:01:21,439: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 15:01:21,440: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 15:01:21,447: INFO/MainProcess] Task computation_heavy_task[d1cf3839-d51e-49dc-a580-64eb78fa369e] succeeded in 5.859999999999673s: None
+[2022-05-17 15:01:22,564: INFO/MainProcess] Task computation_heavy_task[d46480f6-ecc6-40ee-b7bc-f3e75b6fa502] received
+[2022-05-17 15:01:22,677: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 15:01:22,678: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 15:01:22,679: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 15:01:26,097: INFO/MainProcess] User follower created 10
+[2022-05-17 15:01:26,102: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 15:01:26,102: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 15:01:26,108: INFO/MainProcess] Task computation_heavy_task[d46480f6-ecc6-40ee-b7bc-f3e75b6fa502] succeeded in 3.530999999999949s: None
+[2022-05-17 15:02:15,739: INFO/MainProcess] Task computation_heavy_task[b4ce56c8-5777-4abd-bd79-b30dd9b18ccc] received
+[2022-05-17 15:02:15,866: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 15:02:15,868: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 15:02:15,869: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 15:02:18,846: INFO/MainProcess] User follower created 5000
+[2022-05-17 15:02:20,422: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 15:02:20,423: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 15:02:20,428: INFO/MainProcess] Task computation_heavy_task[b4ce56c8-5777-4abd-bd79-b30dd9b18ccc] succeeded in 4.686999999999898s: None
+[2022-05-17 15:02:22,810: INFO/MainProcess] Task computation_heavy_task[751010c8-fe8a-4b97-81b9-6fd4b03dfdc4] received
+[2022-05-17 15:02:23,018: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 15:02:23,019: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 15:02:23,019: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 15:02:26,204: INFO/MainProcess] User follower created 10
+[2022-05-17 15:02:26,213: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 15:02:26,214: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 15:02:26,221: INFO/MainProcess] Task computation_heavy_task[751010c8-fe8a-4b97-81b9-6fd4b03dfdc4] succeeded in 3.4219999999995707s: None
+[2022-05-17 15:03:17,293: INFO/MainProcess] Task computation_heavy_task[5bd4672a-5275-4046-be2b-c5611bfd6784] received
+[2022-05-17 15:03:17,376: INFO/MainProcess] Starting user coinvasity
+[2022-05-17 15:03:17,377: INFO/MainProcess] Calling user coinvasity api
+[2022-05-17 15:03:17,377: INFO/MainProcess] Starting user coinvasity api
+[2022-05-17 15:03:20,170: INFO/MainProcess] User follower created 5000
+[2022-05-17 15:03:20,929: INFO/MainProcess] Credentials user coinvasity
+[2022-05-17 15:03:20,929: INFO/MainProcess] Ending user coinvasity
+[2022-05-17 15:03:20,933: INFO/MainProcess] Task computation_heavy_task[5bd4672a-5275-4046-be2b-c5611bfd6784] succeeded in 3.6400000000003274s: None
+[2022-05-17 15:03:23,006: INFO/MainProcess] Task computation_heavy_task[6130232d-d2a4-49c8-b62c-288ef1705f78] received
+[2022-05-17 15:03:23,193: INFO/MainProcess] Starting user PAwolesi
+[2022-05-17 15:03:23,194: INFO/MainProcess] Calling user PAwolesi api
+[2022-05-17 15:03:23,194: INFO/MainProcess] Starting user PAwolesi api
+[2022-05-17 15:03:25,875: INFO/MainProcess] User follower created 10
+[2022-05-17 15:03:25,882: INFO/MainProcess] Credentials user PAwolesi
+[2022-05-17 15:03:25,883: INFO/MainProcess] Ending user PAwolesi
+[2022-05-17 15:03:25,898: INFO/MainProcess] Task computation_heavy_task[6130232d-d2a4-49c8-b62c-288ef1705f78] succeeded in 2.891000000000531s: None

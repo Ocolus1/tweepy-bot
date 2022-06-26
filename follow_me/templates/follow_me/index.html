@@ -1,0 +1,17 @@
+{% extends 'follow_me/base.html' %}
+{% load static %}
+{% block title %} Tweego {% endblock %}
+{% block body %}
+<div class="top_div ">
+    <div class="middle_div ">
+        <h2>Join Tweego or Sign in now.</h2>
+        <a class="btn1"  href="{{ authorize_url }}" >Sign in with Twitter</a>
+    </div>
+</div>
+{% endblock %}
+{% block extrajs %}
+    <script type="text/javascript">
+        let authorize_url = "{{ authorize_url }}"
+    </script>
+    <!-- <script src="{% static 'follow_me/js/main.js' %}"></script> -->
+{% endblock %}
