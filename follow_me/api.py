@@ -38,7 +38,7 @@ def createWebhook():
     try: 
         res = requests.post(
             'https://api.twitter.com/1.1/account_activity/all/dev/webhooks.json',
-            params={'url': 'https://321f-160-152-34-232.eu.ngrok.io/twitter'},
+            params={'url': 'https://5c65-169-159-106-205.eu.ngrok.io/twitter'},
             auth=oauth
         )
         return res.json()
@@ -47,39 +47,57 @@ def createWebhook():
 
 
 
-def deleteWebhook(webhookId):
-    url = f'{settings.TWITTER_API_URL}/account_activity/all/{settings.TWITTER_WEBHOOK_ENV}/webhooks/${webhookId}.json',
-    res = requests.delete(url[0], auth=oauth)
+def deleteWebhook():
+    res = requests.delete(
+            'https://api.twitter.com/1.1/account_activity/all/dev/webhooks/1540818483029712896.json',
+            auth=oauth
+        )
     return res
 
 
 def getSubscription():
     try: 
-        res = requests.post(
-            'https://api.twitter.com/1.1/account_activity/all/dev/subscriptions.json',
-            params={'url': 'https://321f-160-152-34-232.eu.ngrok.io/twitter'},
-            auth=oauth
+        # res = requests.get(
+        #     'https://api.twitter.com/1.1/account_activity/all/dev/subscriptions.json',
+        #     auth=oauth
+        # )
+        res = requests.get(
+            'https://api.twitter.com/1.1/account_activity/all/subscriptions/count.json',
+            headers=authorizationHeaders
         )
         return res.json()
     except: 
         print("An error occrred")
 
-
-def createSubscription():
+def getMySubscription(oauther):
     try: 
+        res = requests.get(
+            'https://api.twitter.com/1.1/account_activity/all/dev/subscriptions.json',
+            auth=oauther
+        )
+        return res
+    except: 
+        print("An error occrred")
+
+
+def createSubscription(oauther):
+    try: 
+        
         res = requests.post(
             'https://api.twitter.com/1.1/account_activity/all/dev/subscriptions.json',
-            auth=oauth
+            auth=oauther
         )
-        return res.json()
+        return res
     except: 
         print("An error occrred")
 
 
 def deleteSubscription(userId):
-    url = f'{settings.TWITTER_API_URL}/account_activity/all/${settings.TWITTER_WEBHOOK_ENV}/subscriptions/${userId}.json',
-    res = requests.delete(url[0], headers=authorizationHeaders)
-    return res.json()
+    res = requests.delete(
+            f'https://api.twitter.com/1.1/account_activity/all/dev/subscriptions/{userId}.json',
+            headers=authorizationHeaders
+        )
+    return res
 
 
 # from django.conf import settings

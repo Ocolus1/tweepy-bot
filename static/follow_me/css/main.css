@@ -35,6 +35,10 @@ body, html {
     background-color: transparent;
 }
 
+.btn_p {
+    margin-top: 1.5rem;
+}
+
 .btn1:hover {
     color: #e8f8ff;
 }

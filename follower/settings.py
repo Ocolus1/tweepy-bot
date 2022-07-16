@@ -175,7 +175,7 @@ CELERY_RESULT_SERIALIZER = 'json'
 CELERY_TIMEZONE = "Africa/Lagos"
 CELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'
 
-LOGIN_REDIRECT_URL = '/home'
+LOGIN_REDIRECT_URL = '/dashboard'
 LOGOUT_REDIRECT_URL = '/'
 
 AUTH_USER_MODEL = 'follow_me.User'
